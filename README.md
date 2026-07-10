@@ -1,6 +1,6 @@
 # Group Digest
 
-> 提取各类网页群聊记录，生成 Markdown 和每日精华摘要，并可自动发布到飞书文档。  
+> 抓取各类平台的群聊记录，提炼每周的精华内容做成 Markdown ，并可自动发布到飞书文档。  
 > Export web chat messages to Markdown, generate highlight digests, and optionally publish them to Feishu/Lark Docs.
 
 Group Digest 通过浏览器页面读取平台的群聊内容，提炼里面的精华内容做成markdown文档，可用于AI录入知识库或生成社群周报，还可以一个命令做成文档上传至飞书。
