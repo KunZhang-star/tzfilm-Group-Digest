@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Local browser/debug profiles
+.chrome-profile/
+.agents/
+.codex/
+
+# Local extraction outputs and personal data
+*_raw.md
+*_digest.md
+*_seen.json
+*_today.md
+chat.md
+today.md
+*.md.tmp
+*.log
+feishu_auth_qr.png
+lark_config_init.*.log
+
+# Secrets
+.env
+*.secret
+*.pem
